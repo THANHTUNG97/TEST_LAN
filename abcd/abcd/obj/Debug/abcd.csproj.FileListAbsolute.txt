@@ -1,0 +1,103 @@
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\obj\Debug\abcd.csproj.AssemblyReference.cache
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\obj\Debug\abcd.csproj.SuggestedBindingRedirects.cache
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\obj\Debug\abcd.Form1.resources
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\obj\Debug\abcd.Properties.Resources.resources
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\obj\Debug\abcd.csproj.GenerateResource.cache
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\obj\Debug\abcd.csproj.CoreCompileInputs.cache
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\bin\Debug\abcd.exe.config
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\bin\Debug\abcd.exe
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\bin\Debug\abcd.pdb
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\obj\Debug\abcd.exe
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\obj\Debug\abcd.pdb
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\bin\Debug\EasyModbus.dll
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\bin\Debug\EasyModbus.xml
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\obj\Debug\abcd.csproj.CopyComplete
+C:\Users\JVNPC01\Desktop\master\abcd\abcd\bin\Debug\SimpleTCP.dll
+C:\Users\const\Desktop\abcd\abcd\bin\Debug\abcd.exe.config
+C:\Users\const\Desktop\abcd\abcd\bin\Debug\abcd.exe
+C:\Users\const\Desktop\abcd\abcd\bin\Debug\abcd.pdb
+C:\Users\const\Desktop\abcd\abcd\bin\Debug\EasyModbus.dll
+C:\Users\const\Desktop\abcd\abcd\bin\Debug\SimpleTCP.dll
+C:\Users\const\Desktop\abcd\abcd\bin\Debug\EasyModbus.xml
+C:\Users\const\Desktop\abcd\abcd\obj\Debug\abcd.csprojResolveAssemblyReference.cache
+C:\Users\const\Desktop\abcd\abcd\obj\Debug\abcd.Form1.resources
+C:\Users\const\Desktop\abcd\abcd\obj\Debug\abcd.Properties.Resources.resources
+C:\Users\const\Desktop\abcd\abcd\obj\Debug\abcd.csproj.GenerateResource.Cache
+C:\Users\const\Desktop\abcd\abcd\obj\Debug\abcd.csproj.CoreCompileInputs.cache
+C:\Users\const\Desktop\abcd\abcd\obj\Debug\abcd.exe
+C:\Users\const\Desktop\abcd\abcd\obj\Debug\abcd.pdb
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\bin\Debug\abcd.exe.config
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\bin\Debug\abcd.exe
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\bin\Debug\abcd.pdb
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\bin\Debug\EasyModbus.dll
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\bin\Debug\SimpleTCP.dll
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\bin\Debug\EasyModbus.xml
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\obj\Debug\abcd.csproj.AssemblyReference.cache
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\obj\Debug\abcd.csproj.SuggestedBindingRedirects.cache
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\obj\Debug\abcd.Form1.resources
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\obj\Debug\abcd.Properties.Resources.resources
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\obj\Debug\abcd.csproj.GenerateResource.cache
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\obj\Debug\abcd.csproj.CoreCompileInputs.cache
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\obj\Debug\abcd.csproj.CopyComplete
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\obj\Debug\abcd.exe
+C:\Users\JVNPC01\Desktop\Debug\abcd\abcd\obj\Debug\abcd.pdb
+C:\Users\dungvt\Downloads\abcd\abcd\bin\Debug\abcd.exe.config
+C:\Users\dungvt\Downloads\abcd\abcd\bin\Debug\abcd.exe
+C:\Users\dungvt\Downloads\abcd\abcd\bin\Debug\abcd.pdb
+C:\Users\dungvt\Downloads\abcd\abcd\bin\Debug\EasyModbus.dll
+C:\Users\dungvt\Downloads\abcd\abcd\bin\Debug\SimpleTCP.dll
+C:\Users\dungvt\Downloads\abcd\abcd\bin\Debug\EasyModbus.xml
+C:\Users\dungvt\Downloads\abcd\abcd\obj\Debug\abcd.csproj.AssemblyReference.cache
+C:\Users\dungvt\Downloads\abcd\abcd\obj\Debug\abcd.csproj.SuggestedBindingRedirects.cache
+C:\Users\dungvt\Downloads\abcd\abcd\obj\Debug\abcd.Form1.resources
+C:\Users\dungvt\Downloads\abcd\abcd\obj\Debug\abcd.Properties.Resources.resources
+C:\Users\dungvt\Downloads\abcd\abcd\obj\Debug\abcd.csproj.GenerateResource.cache
+C:\Users\dungvt\Downloads\abcd\abcd\obj\Debug\abcd.csproj.CoreCompileInputs.cache
+C:\Users\dungvt\Downloads\abcd\abcd\obj\Debug\abcd.csproj.CopyComplete
+C:\Users\dungvt\Downloads\abcd\abcd\obj\Debug\abcd.exe
+C:\Users\dungvt\Downloads\abcd\abcd\obj\Debug\abcd.pdb
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\bin\Debug\abcd.exe.config
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\bin\Debug\abcd.exe
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\bin\Debug\abcd.pdb
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\bin\Debug\EasyModbus.dll
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\bin\Debug\SimpleTCP.dll
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\bin\Debug\EasyModbus.xml
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.AssemblyReference.cache
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.SuggestedBindingRedirects.cache
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\obj\Debug\abcd.Form1.resources
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\obj\Debug\abcd.Properties.Resources.resources
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.GenerateResource.cache
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.CoreCompileInputs.cache
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.CopyComplete
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\obj\Debug\abcd.exe
+C:\Users\JVNPC01\Documents\Zalo Received Files\abcd_1\abcd\abcd\obj\Debug\abcd.pdb
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.AssemblyReference.cache
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.SuggestedBindingRedirects.cache
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\obj\Debug\abcd.Form1.resources
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\obj\Debug\abcd.Properties.Resources.resources
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.GenerateResource.cache
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.CoreCompileInputs.cache
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\obj\Debug\abcd.exe
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\obj\Debug\abcd.pdb
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\bin\Debug\abcd.exe.config
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\bin\Debug\abcd.exe
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\bin\Debug\abcd.pdb
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\bin\Debug\EasyModbus.dll
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\bin\Debug\SimpleTCP.dll
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\bin\Debug\EasyModbus.xml
+C:\Users\JVNPC01\Desktop\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.CopyComplete
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\bin\Debug\abcd.exe.config
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\bin\Debug\abcd.exe
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\bin\Debug\abcd.pdb
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\bin\Debug\EasyModbus.dll
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\bin\Debug\SimpleTCP.dll
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\bin\Debug\EasyModbus.xml
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.AssemblyReference.cache
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.SuggestedBindingRedirects.cache
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\obj\Debug\abcd.Form1.resources
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\obj\Debug\abcd.Properties.Resources.resources
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.GenerateResource.cache
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.CoreCompileInputs.cache
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\obj\Debug\abcd.csproj.CopyComplete
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\obj\Debug\abcd.exe
+E:\code\1.1Project PIC\RF_CAN control\abcd_1\abcd\abcd\obj\Debug\abcd.pdb
